@@ -10,7 +10,7 @@ Note: Make a pre-order now, it comes with it’s own license.
 
 💰Price of Full Source Code: $750 .
 
-📱 Contact on telegram: https://t.me/StepDrainer
+📱 Contact on telegram: https://t.me/@unknown2234423
 
 On the client’s cryptocurrency wallet, Crypto Drainer will search for any network that is accessible, including Ethereum, Binance Smart Chain, Avalanche, Polygon, Base, Arbitrum, Optimism, and more than 16 more EVMs. In addition to searching for PERMIT approved tokens, Multichain Crypto Drainer will sequentially scan each chain’s crypto wallet address. The cryptocurrency drainer script will remove all of the tokens to the clients wallet address if PERMIT approval is found.
 
